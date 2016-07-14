@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=vncviewer
+Exec=/opt/piherald/piherald-client-vncviewer.sh
+OnlyShowIn=XFCE;
+StartNotify=false
+Hidden=false
